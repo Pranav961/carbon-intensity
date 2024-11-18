@@ -3,6 +3,11 @@
 A new Flutter project.
 
 
+This project, Carbon Buddy, dynamically displays the UK's carbon intensity data using a graph that updates in real time. It fetches data from the Carbon Intensity API and plots half-hourly carbon intensity values for the current day.
+
+The app is built with Flutter, focusing on Android devices for optimal performance and UI compatibility.
+
+
 
 ## Getting Started
 
